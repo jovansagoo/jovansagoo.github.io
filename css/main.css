@@ -2428,12 +2428,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .projects-area .single-project .overlay-content h1 {
   color: #222;
-  font-size: 28px;
+  font-size: 24px;
 }
 
 @media (max-width: 1024px) {
   .projects-area .single-project .overlay-content h1 {
-    font-size: 28px;
+    font-size: 24px;
   }
 }
 
